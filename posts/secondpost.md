@@ -1,12 +1,12 @@
 ---
-title: This is my second post.
+title: This is my 2 post.
 description: This is a post on My Blog about leveraging agile frameworks.
 date: 2018-07-04
 tags:
   - number 2
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+This is my second post
 
 ## Section Header
 
