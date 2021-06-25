@@ -1,26 +1,18 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
+title: Hearthstone Grandmaster 'ragequits' during the finals.
+description: This is a post on My Blog about Hearthstone GM xBlyzes.
 date: 2018-05-01
 tags:
   - another tag
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+## Who is this Grandmaster?
 
-## Section Header
+During the Hearthstone Grandmasters playoff match Zakarya “xBlyzes” Hail disconnected from the server instead of conceding the game, after having a run of poor draws against his opponent Frenetic.
 
-hdshdthdhgds on highway will close the loop on focusing solely on the bottom line.
+The community calls this kind of disconnection a “ragequit” due to the combination of anger and frustration that leads to the player leaving the game through less official means than conceding the match. Commentary during the stream said: “My heart goes out to him. It’s a brutal way to lose the series”. Due to the circumstances, Frenetic would need to wait for Admin confirmation that the match was actually conceded.
 
-``` text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
+xBlyzes has had a few issues during the Hearthstone competitive season, including disputes with tournament administrators. He was docked two points for missing a match, and was also accused of win-trading.
 
-// Test with a line break above this line.
-console.log('Test');
-```
+xBlyzes also tweeted “I want to die” after his loss. A follower replied by saying “You had and incredible tournament, but what a garbage way to finish it.” To which xBlyzes responded: “sry to be mad because i lost the most important match of my life”.
